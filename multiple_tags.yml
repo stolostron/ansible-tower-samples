@@ -4,5 +4,5 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
-      tags: tag-1, tag-2
+      tags: job-tag-1, job-tag-2, skip-tag-1, skip-tag-2
 
